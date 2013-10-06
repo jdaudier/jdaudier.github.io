@@ -149,7 +149,8 @@ h3 {
 
 .box h4 {
 	color:#3c3c3c;
-	padding:0px 15px;
+	padding:0 15px;
+	text-transform: uppercase;
 }
 
 .box p {
