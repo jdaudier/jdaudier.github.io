@@ -165,6 +165,13 @@ h3 {
 	        border-radius:4px 4px 0 0;
 }
 
+.border {
+	/*box-shadow*/
+	-webkit-box-shadow: 0 0 4px #aaaaaa;
+	   -moz-box-shadow: 0 0 4px #aaaaaa;
+	        box-shadow: 0 0 4px #aaaaaa;
+}
+
 footer {
 	clear:both;
 	background:#4d4d4d;
