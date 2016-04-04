@@ -196,7 +196,7 @@ footer p {
 	float:right;
 	color:white;
 	font-weight:lighter;
-	letter-spacing:0.5em;
+	letter-spacing:0.2em;
 }
 
 footer p span {
@@ -221,6 +221,10 @@ footer, .push {
 	font-size:2em;
 	line-height:1.5em;
 	color:#4d4d4d;
+}
+
+.blog-link {
+	color: #05c5d6;
 }
 
 #signature {
